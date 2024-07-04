@@ -19,7 +19,7 @@ N'hésitez pas à ouvrir des issues pour signaler des bugs ou proposer de nouvel
 4. Exécutez les migrations pour créer les tables de la base de données :
 5. Démarrez le serveur de développement :
 
-Votre application Symfony FGP sera accessible à l'adresse `http://localhost:8000`.
+Votre application Symfony FGP sera accessible à l'adresse `http://localhost:8000/api`.
 
 ## Gestion de la base de données
 
