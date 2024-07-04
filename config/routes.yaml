@@ -1,0 +1,12 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+
+
+# config/routes.yaml
+search_village:
+    path: pages/village/index/{villageName}
+    controller: App\Controller\VillageController::searchVillage
+
